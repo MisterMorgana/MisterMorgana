@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MisterMorgana
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning programmning
-- 💞️ I’m looking to collaborate on something...
+Hi, I’m @MisterMorgana
+
 
 <!---
 MisterMorgana/MisterMorgana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
